@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570202542892",
+    "project_id": "dfbakery",
+    "storage_bucket": "dfbakery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570202542892:android:72369fbae5afb947a5d289",
+        "android_client_info": {
+          "package_name": "com.example.project_tugas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmMEPcEDcRDGh96Fjaa5QbRYq2-H_t61k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
